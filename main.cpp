@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-main() // you may type whatever you want
+main() //
 {
 cout << "Enter A and B: ";
 int a, b;
